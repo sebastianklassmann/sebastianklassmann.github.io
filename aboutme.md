@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About meWhy
+title: About me
 subtitle:  This will be updated in due time.
 ---
 
