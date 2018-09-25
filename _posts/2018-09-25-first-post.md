@@ -11,4 +11,5 @@ course.
 
 For now, you can check out this little presentation to get you stated:
 [getting started with GitHub](intro.html)
+
 ~                                     
