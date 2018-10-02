@@ -3,7 +3,7 @@ layout: post
 title: Off to a good start!
 ---
 
-## Use GitHub! ##<br><br>
+## Use GitHub! <br><br>
   
   
 The start of our seminar is steadily approaching.  
