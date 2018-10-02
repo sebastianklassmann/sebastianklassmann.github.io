@@ -29,6 +29,7 @@ navbar-links:
     - Learn markdown: "http://www.markdowntutorial.com/"
     - GitHub Pages: "https://pages.github.com/"
     - Inform yourself about LSTMs: "https://colah.github.io/posts/2015-08-Understanding-LSTMs/"
+    - Music 21 Documentation: "http://web.mit.edu/music21/doc/"
   Author's home: "http://www.sebastianklassmann.de"
 
 # Image to show in the navigation bar - image must be a square (width = height)
