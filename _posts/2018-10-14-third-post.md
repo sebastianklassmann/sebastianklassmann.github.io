@@ -12,7 +12,7 @@ the following link:
 
 ---
 
-[Copy Files now](https://jhmuwi.uni-koeln.de/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fsebastianklassmann%2Fmondaymaterials&app=lab)  
+[Copy Files now](https://jhmuwi.uni-koeln.de/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fsebastianklassmann%2Fcoursematerials&app=lab)  
   
 ---
 
