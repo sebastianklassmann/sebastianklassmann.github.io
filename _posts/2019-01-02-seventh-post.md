@@ -24,7 +24,9 @@ Additionally, there is a number of good resources for articles that you might wa
 [Probabilistic Transition Tables vs. Deep Learning in Music Generation](https://towardsdatascience.com/making-music-when-simple-probabilities-outperform-deep-learning-75f4ee1b8e69)  
 [The corresponding video for the above article:](https://www.youtube.com/watch?v=WeU5xzsqPmk&t=13s)  
 [music21's own blog](https://music21-mit.blogspot.com/2016/07/using-music21-for-jazz-improv-and-study.html)  
-  
+[Time-based harmony annotation of a jazz corpus](http://ismir2018.ircam.fr/doc/pdfs/206_Paper.pdf) 
+
+ 
 All these ideas and articles are just examples. A main skill in computational/algorithmic thinking is exploration. Thus, feel free to find your own scientific or everyday problems that you think can be tackled using what we have studied in our course.  
   
 I will see you all next week!
