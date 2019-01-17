@@ -34,7 +34,8 @@ navbar-links:
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/img/stormtroopocat.png"
+avatar: "https://octodex.github.com/images/baracktocat.jpg" 
+# "/img/stormtroopocat.png"
 # avatar: "https://octodex.github.com/images/surftocat.png"
 
 # If you want to have an image logo in the top-left corner instead of the title text,
