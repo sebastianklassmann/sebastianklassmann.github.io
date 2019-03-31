@@ -12,7 +12,7 @@ course.
 For now, feel free to browse older posts from last semester, as well as the
 pages referenced in the "resources" section.  
 
-One more important thing: please head over to [https://github.com](GitHub) and  create a free account. Please write down your login credentials and pick a user name that can be identified.]
+One more important thing: please head over to [https://github.com](GitHub) and  create a free account. Please write down your login credentials and pick a user name that can be identified.
 
 See you all next Tuesday and please remember to bring an internet-capable device(i.e., a laptop or tablet computer!)
 
