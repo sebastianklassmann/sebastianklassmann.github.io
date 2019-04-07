@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: Introducing JupyterLab and Markdown
