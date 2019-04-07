@@ -17,4 +17,6 @@ the following link:
 
 ---
 
+Also, if you are interested in what music21 (one of our main foci this semester) actually is and aims to do, feel free to browse this [article](https://dspace.mit.edu/handle/1721.1/84963#files-area).
+
 You will receive further information on how to make this work in class. See you all tomorrow!
