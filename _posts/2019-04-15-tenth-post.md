@@ -1,11 +1,9 @@
 ---
 layout: post
-title: Introducing JupyterLab and Markdown
+title: Git, GitHub, GitHub classroom?
 ---
 
-#### Git, GitHub, GitHub classroom?  
-  
-Dear students,
+#### Dear students,
 
 tomorrow we will be focussing on a specific walkflow for sharing project files among collaborators: Git/GitHub.  
   
