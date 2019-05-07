@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Git, GitHub, GitHub classroom?
+title: Music21 - off to a good start!
 ---
 
 # Music21 - Let's start!  
