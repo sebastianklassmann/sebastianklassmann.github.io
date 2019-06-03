@@ -3,7 +3,9 @@ layout: post
 title: Next step: AI / Machine Learning / Deep Learning / Artificial Neural Networks in Music Research
 ---
 
-#### Dear students,
+#Introduction to Artificial Neural Networks 
+
+Dear students,
 we are off to our next step in this course.
 
 After having dealt with music21 for some weeks now and having grasped an understanding of fundamental concepts and functions, we will now be turning to this semester's second core topic.
