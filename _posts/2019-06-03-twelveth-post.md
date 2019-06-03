@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Next step: AI / Machine Learning / Deep Learning / Artificial Neural Networks in Music Research
+title: Next step: Artificial Neural Networks in Music Research
 ---
 
 #Introduction to Artificial Neural Networks 
