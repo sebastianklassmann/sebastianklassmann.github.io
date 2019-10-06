@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Next step: Artificial Neural Networks in Music Research
+title: Artificial Neural Networks in Music Research
 ---
 
 #Introduction to Artificial Neural Networks 
