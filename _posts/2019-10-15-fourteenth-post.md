@@ -16,4 +16,3 @@ In order to receive your first set of instruction materials, please click on the
 
 Good luck and have a great day,  
 Sebastian  
-
