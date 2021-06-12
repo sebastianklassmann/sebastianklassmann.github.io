@@ -14,10 +14,10 @@ baseurl: "/"
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: Computational Musicology Winter Term 2019
+title: Music and Deep Learning Summer Term 2021
 
 # Short description of your site
-description: Course materials for our Tuesday classes
+description: Course materials for our class
 
 # --- Navigation bar options --- #
 
@@ -32,7 +32,6 @@ navbar-links:
     - Music 21 Documentation: "http://web.mit.edu/music21/doc/"
     - Tensorflow Documentation: "https://www.tensorflow.org/tutorials"
     - Collection of Articles on Data Science: "http://www.towardsdatascience.com"
-  Author's home: "http://www.sebastianklassmann.de"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
